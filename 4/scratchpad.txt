@@ -1,0 +1,17 @@
+Valid Xmas:
+
+M.S
+.A.
+M.S
+
+M.M
+.A.
+S.S
+
+S.S
+.A.
+M.M
+
+S.M
+.A.
+S.M
